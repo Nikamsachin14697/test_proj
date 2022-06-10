@@ -1,4 +1,4 @@
-# Prime number code
+# This is Prime Code
 def prime_composite(num_list):
   prime =[]
   composite =[]
